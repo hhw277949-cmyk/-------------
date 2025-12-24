@@ -1,0 +1,15 @@
+[22188:6252:1221/222140.314:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22188:6252:1221/222140.363:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22188:30340:1221/222140.379:ERROR:external_registry_loader_win.cc(144)] Missing value path for key Software\Google\Chrome\Extensions\golbdgciocipijcnkhfjbljaepchclbc.
+[13288:30076:1221/222152.523:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D98E2F02B671D0303CBA927E7111BE88 will be ignored
+[22188:26324:1221/222157.197:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[22188:6252:1221/222158.858:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[22188:6252:1221/222158.858:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[22188:6252:1221/222158.858:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[22188:6252:1221/222158.858:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[22188:26324:1221/222158.863:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[28780:19376:1221/222422.256:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[28780:19376:1221/222422.256:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5228:11248:1221/222426.915:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 7
+[5228:11248:1221/231137.007:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22188:6252:1222/022603.520:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,5 @@
+[49044:43948:1224/234544.571:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[49044:43948:1224/234544.626:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[49044:59292:1224/234544.640:ERROR:external_registry_loader_win.cc(144)] Missing value path for key Software\Google\Chrome\Extensions\golbdgciocipijcnkhfjbljaepchclbc.
+[49044:43948:1224/234552.564:WARNING:extension_service.cc(2034)] Found external version of extension ncennffkjdiamlpmcbajkmaiiiddgioothat is older than current version. Current version is: 3.52.14. New version is: 3.52.5. Keeping current version.
+[49044:43948:1224/234658.061:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

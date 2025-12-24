@@ -1,0 +1,9 @@
+[48348:42316:1224/234759.876:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[48348:42316:1224/234759.947:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[48348:50516:1224/234759.961:ERROR:external_registry_loader_win.cc(144)] Missing value path for key Software\Google\Chrome\Extensions\golbdgciocipijcnkhfjbljaepchclbc.
+[48348:42316:1224/234807.800:WARNING:extension_service.cc(2034)] Found external version of extension ncennffkjdiamlpmcbajkmaiiiddgioothat is older than current version. Current version is: 3.52.14. New version is: 3.52.5. Keeping current version.
+[49460:50924:1224/235053.302:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[49460:50924:1224/235058.305:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[49460:50924:1225/010818.283:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[49460:50924:1225/010823.284:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[48348:42316:1225/030919.138:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

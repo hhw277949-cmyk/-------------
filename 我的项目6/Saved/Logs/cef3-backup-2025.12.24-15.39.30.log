@@ -1,0 +1,5 @@
+[35396:46220:1224/233843.209:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[35396:46220:1224/233843.276:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[35396:57848:1224/233843.302:ERROR:external_registry_loader_win.cc(144)] Missing value path for key Software\Google\Chrome\Extensions\golbdgciocipijcnkhfjbljaepchclbc.
+[35396:46220:1224/233857.491:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension ncennffkjdiamlpmcbajkmaiiiddgioo
+[35396:46220:1224/233930.538:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
